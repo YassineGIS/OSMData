@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/OSMData" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
